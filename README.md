@@ -53,3 +53,10 @@ Possible layout redesign with the addition of esp8266 to get current weather dat
 Zambretti Source code was taken from [G6EJD's ESP32 Weather Forecaster](https://github.com/G6EJD/ESP32_Weather_Forecaster_TN061) and tweaked to work with saving data to an SD card.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/164087731@N07/47179511951/in/dateposted-public/" title="Version.1.0d"><img src="https://farm8.staticflickr.com/7924/47179511951_6e93ec107d_c.jpg" width="800" height="450" alt="Version.1.0d"></a>
+
+
+Update 2/26/2019
+
+After playing hell with the WEMOS Mega w/ESP8266 I finally got the Open Weather Maps API finally working for my location. Currently it's just the Current Forecast but I'll be working more and more with the code to include more than one future forecast I currently get. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/164087731@N07/46310268435/in/album-72157678697572758/" title="Open Weather Map finally streaming current weather information on the WEMOS Mega w/esp8266"><img src="https://farm8.staticflickr.com/7867/46310268435_4b10acf12d_c.jpg" width="800" height="450" alt="Open Weather Map finally streaming current weather information on the WEMOS Mega w/esp8266"></a>
